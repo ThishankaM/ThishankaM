@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./132079.gif" width="100%" alt="Battle Scene"/>
+  <img src="./132079.gif" width="100%" alt="Epic Battle Scene"/>
 </div>
 
 <br>
 
 <div align="center">
-  <h1>『 THISHANKA METHSHAN 』</h1>
-  <h3>〜 コードを紡ぎ、世界を創る旅人 〜</h3>
+  <h1>THISHANKA METHSHAN</h1>
+  <h3>Code • Create • Level Up</h3>
   <p>
     <strong>Software Engineering Undergraduate</strong> • Full-Stack Developer • AI/ML & IoT Explorer
   </p>
@@ -14,22 +14,22 @@
 
 ---
 
-## 🗡️ PLAYER STATUS
+## 🗡️ PLAYER PROFILE
 
 ```yaml
-Name        : Thishanka Methshan Ranasinghe
-Callsign    : Shadow
-Class       : Software Engineering Undergraduate
-Academy     : Lanka Nippon BizTech Institute (LNBTI)
-Level       : GPA 3.74 / 4.00
-Title       : President — LNBTI IT Club
-Rare Title  : Dean's List
-Main Quest  : Build useful software with creativity and purpose
-Skills      : Full-Stack • AI & ML • IoT Systems
+Name          : Thishanka Methshan Ranasinghe
+Callsign      : Shadow
+Class         : Software Engineering Undergraduate
+Academy       : Lanka Nippon BizTech Institute (LNBTI)
+Level         : GPA 3.74 / 4.00
+Title         : President — LNBTI IT Club
+Rare Title    : Dean's List
+Main Quest    : Build useful software with creativity and purpose
+Skills        : Full-Stack Development • AI & ML • IoT Systems
 ```
 
-> I craft end-to-end applications — from command-line tools and desktop apps to responsive web apps, PWAs, and AI-powered experiences.  
-> Every project is another dungeon to clear and another level to gain.
+> I build end-to-end applications — from command-line tools and desktop apps to responsive web apps, PWAs, and AI-powered experiences.  
+> Every project is another quest to learn, experiment, and level up.
 
 <div align="center">
   <img src="https://img.shields.io/badge/GPA-3.74%2F4.00-FFD700?style=for-the-badge&labelColor=0D1117" />
@@ -181,11 +181,32 @@ Skills      : Full-Stack • AI & ML • IoT Systems
 
 </div>
 
-## 🤝 SEND PARTY INVITE
+---
+
+## 📊 BATTLE RECORDS
 
 <div align="center">
 
-Have a project idea, internship opportunity, or co-op quest? Let’s form a party.
+### Personal Save File
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThishankaM&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2E88&icon_color=00D9FF&text_color=FFFFFF&ring_color=7A5CFA&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThishankaM&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+
+### Campus Save File
+<a href="https://github.com/Thishanka-SE03">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Thishanka-SE03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF2E88&text_color=FFFFFF&ring_color=7A5CFA&rank_icon=github" />
+</a>
+
+![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=ThishankaM&bg_color=0D1117&color=00D9FF&line=FF2E88&point=FFFFFF&area=true&area_color=7A5CFA&hide_border=true&custom_title=THISHANKA'S%20COMMIT%20ADVENTURE)
+
+</div>
+
+---
+
+## 🤝 PARTY RECRUITMENT
+
+<div align="center">
+
+Got a project idea, internship, or co-op quest? Let's form a party.
 
 [![GitHub](https://img.shields.io/badge/PERSONAL_GITHUB-ThishankaM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThishankaM)
 [![Campus GitHub](https://img.shields.io/badge/CAMPUS_GITHUB-Thishanka--SE03-00D9FF?style=for-the-badge&logo=github&logoColor=11111B)](https://github.com/Thishanka-SE03)
@@ -194,8 +215,14 @@ Have a project idea, internship opportunity, or co-op quest? Let’s form a part
 
 <br>
 
-### 「 The next level starts with one more commit. 」
+### The next level starts with one more commit.
 
-<sub>STATUS: ONLINE • OPEN TO COLLABORATIONS • つづく...</sub>
+<sub>STATUS: ONLINE • OPEN TO COLLABORATIONS</sub>
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./131207.gif" width="100%" alt="Sword Art Online"/>
 </div>
