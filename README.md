@@ -181,27 +181,6 @@ Skills        : Full-Stack Development • AI & ML • IoT Systems
 
 </div>
 
----
-
-## 📊 BATTLE RECORDS
-
-<div align="center">
-
-### Personal Save File
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThishankaM&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2E88&icon_color=00D9FF&text_color=FFFFFF&ring_color=7A5CFA&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThishankaM&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-
-### Campus Save File
-<a href="https://github.com/Thishanka-SE03">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Thishanka-SE03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF2E88&text_color=FFFFFF&ring_color=7A5CFA&rank_icon=github" />
-</a>
-
-![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=ThishankaM&bg_color=0D1117&color=00D9FF&line=FF2E88&point=FFFFFF&area=true&area_color=7A5CFA&hide_border=true&custom_title=THISHANKA'S%20COMMIT%20ADVENTURE)
-
-</div>
-
----
-
 ## 🤝 PARTY RECRUITMENT
 
 <div align="center">
